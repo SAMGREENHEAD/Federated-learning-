@@ -10,8 +10,8 @@
 ## Comparison: Federated vs Centralized  
 
 # Project Structure
-## client_fn → Creates Clients  
-## MnistClient → Local Training and Evaluation  
+client_fn → Creates Clients  
+MnistClient → Local Training and Evaluation  
 ## strategy → FedAvg with Metrics Aggregation  
 ## simulation → Runs Federated Rounds  
 ## central_model → Centralized Baseline  
